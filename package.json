@@ -9,8 +9,8 @@
   "author": "Steve Sloan <sloan.steve@gmail.com>",
   "license": "ISC",
   "repository": {
-   "type": "git",
-   "url": "https://github.com/stevesloan/ES6-testing"
+    "type": "git",
+    "url": "https://github.com/stevesloan/ES6-testing"
   },
   "devDependencies": {
     "browser-sync": "^2.8.2",
@@ -22,6 +22,7 @@
     "gulp-uglify": "^1.2.0"
   },
   "dependencies": {
+    "babel-core": "^5.8.22",
     "es6-module-loader": "^0.17.5"
   }
 }
